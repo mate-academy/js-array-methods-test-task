@@ -14,4 +14,4 @@ function getMothersWithChildren(people) {
   return people;
 }
 
-module.exports = sum;
+module.exports = getMothersWithChildren;
